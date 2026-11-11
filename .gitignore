@@ -1,0 +1,12 @@
+bin/
+obj/
+*.zip
+.vs/
+.vscode/
+.idea/
+*.user
+*.csv
+*accessKeys*
+.env
+.env.*
+.aws/
